@@ -88,7 +88,6 @@ self.addEventListener('fetch', function(e) {
         });
       })
     );
-    |]''
   } else {
     /*
      * The app is asking for app shell files. In this scenario the app uses the
